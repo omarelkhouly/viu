@@ -153,3 +153,5 @@ Options:
   -V, --version
           Print version information
 ```
+
+Hello there
